@@ -1,0 +1,17 @@
+{
+	"name": "toast-plugin",
+	"version": "1.0.0",
+	"description": "这是一个Cordova的一个Android插件",
+	"cordova": {
+		"id": "toast-plugin",
+		"platforms": [
+			"android"
+		]
+	},
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "老余",
+	"license": "ISC"
+}
